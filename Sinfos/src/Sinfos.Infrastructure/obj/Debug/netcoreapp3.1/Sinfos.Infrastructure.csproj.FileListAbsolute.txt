@@ -1,0 +1,15 @@
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\bin\Debug\netcoreapp3.1\Sinfos.Infrastructure.deps.json
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\bin\Debug\netcoreapp3.1\Sinfos.Infrastructure.runtimeconfig.json
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\bin\Debug\netcoreapp3.1\Sinfos.Infrastructure.runtimeconfig.dev.json
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\bin\Debug\netcoreapp3.1\Sinfos.Infrastructure.dll
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\bin\Debug\netcoreapp3.1\Sinfos.Infrastructure.pdb
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\bin\Debug\netcoreapp3.1\Sinfos.Core.dll
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\bin\Debug\netcoreapp3.1\Sinfos.Core.pdb
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\obj\Debug\netcoreapp3.1\Sinfos.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\obj\Debug\netcoreapp3.1\Sinfos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\obj\Debug\netcoreapp3.1\Sinfos.Infrastructure.AssemblyInfo.cs
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\obj\Debug\netcoreapp3.1\Sinfos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\obj\Debug\netcoreapp3.1\Sinfos.Infrastructure.csproj.CopyComplete
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\obj\Debug\netcoreapp3.1\Sinfos.Infrastructure.dll
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\obj\Debug\netcoreapp3.1\Sinfos.Infrastructure.pdb
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Infrastructure\obj\Debug\netcoreapp3.1\Sinfos.Infrastructure.genruntimeconfig.cache

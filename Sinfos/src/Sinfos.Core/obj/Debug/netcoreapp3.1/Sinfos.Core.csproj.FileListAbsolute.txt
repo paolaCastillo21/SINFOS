@@ -1,0 +1,9 @@
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Core\bin\Debug\netcoreapp3.1\Sinfos.Core.deps.json
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Core\bin\Debug\netcoreapp3.1\Sinfos.Core.dll
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Core\bin\Debug\netcoreapp3.1\Sinfos.Core.pdb
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Core\obj\Debug\netcoreapp3.1\Sinfos.Core.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Core\obj\Debug\netcoreapp3.1\Sinfos.Core.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Core\obj\Debug\netcoreapp3.1\Sinfos.Core.AssemblyInfo.cs
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Core\obj\Debug\netcoreapp3.1\Sinfos.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Core\obj\Debug\netcoreapp3.1\Sinfos.Core.dll
+C:\Users\Mario\Desktop\sinfosWeb1\Sinfos\src\Sinfos.Core\obj\Debug\netcoreapp3.1\Sinfos.Core.pdb
